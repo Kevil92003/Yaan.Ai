@@ -1,0 +1,6 @@
+{
+  "name": "YAAN.AI Spatial Core",
+  "description": "Spatial Generative Studio, GDCR Compliance Diagnostic, Academic Knowledge Repository and Real Estate Corporate Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
